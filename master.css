@@ -1,0 +1,86 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+
+.container {
+    width: 850px;
+    margin-top: 0px;
+    margin-left: 350px;
+    padding-top: 100px;
+    padding-bottom: 75px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.397);
+    ;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 175px;
+    height: 80px;
+  }
+  .logo-text {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: limegreen;
+    font-weight:500 ;
+  }
+  
+  nav {
+    background-color: limegreen;
+    text-align: center;
+    padding: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+
+  main{ margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;}
+
+
+    .mono1{ font-size: 20px;
+
+    }
+
+    .via1{
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+
+ hr.new3{
+     background-color: crimson;
+     height: 20px;
+    width: 6%;
+    border: none;
+    position: absolute;
+    border-radius: 5px;
+    
+ }
+
+ hr.new2{
+    height: 20px;
+    width: 25%;
+    background-color: green;
+    border: none;
+    position: absolute;
+    border-radius: 5px;
+}
+
+hr.new1{
+    background-color: orange;
+    height: 20px;
+    width: 15%;
+    border: none;
+    position: absolute;
+    border-radius: 5px;
+}
